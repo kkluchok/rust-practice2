@@ -40,3 +40,4 @@ mod tests {
         assert_eq!(grading_students(&[57]), vec![57]);
     }
 }
+
