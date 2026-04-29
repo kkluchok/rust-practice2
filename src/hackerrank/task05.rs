@@ -1,6 +1,4 @@
-/// ПРАКТИЧНА 5: Apple and Orange
-/// Автор: vviktoriiaaa
-
+/// ПРАКТИЧНА 5: Apple and Orange 
 pub fn count_apples_and_oranges(
     s: i32, // початок будинку
     t: i32, // кінець будинку
